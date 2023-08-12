@@ -11,9 +11,13 @@ I am currently majoring in cyber security at Hansung University, and the field I
 
 <br/>
 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=JinWoong)](https://velog.io/@dnddl9456) 
+
 ---
 
 <br/><br/>
+
+
 
 ![JinWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJirung&show_icons=true&theme=merko)
 
