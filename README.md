@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Hello,%20I'm%20Kim%20Jin%20Woong&fontSize=50)
 
+<br/><br/><br/>
+
+**😀 Introduction**
+<br/><br/>
+
+**[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=10000&pause=3000&multiline=true&width=770&height=100&lines=I+am+currently+majoring+in+cyber+security+at+Hansung+University+;I+am+interested+in+IoT+security.)](https://git.io/typing-svg)**
+
 <br/>
-
-😀 Introduction
-<br/><br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=10000&pause=3000&multiline=true&width=770&height=100&lines=I+am+currently+majoring+in+cyber+security+at+Hansung+University+;I+am+interested+in+IoT+security.)](https://git.io/typing-svg)
-
-<br/><br/>
 
 
 ---
