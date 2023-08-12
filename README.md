@@ -1,3 +1,5 @@
+<div align=center>
+
 # Kim Jin Woong 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKJirung&count_bg=%23DDE8D5&title_bg=%23181719&icon=linux.svg&icon_color=%237D97CE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -21,7 +23,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 
-**operating system**
+**Operating System**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D4.svg?&style=for-the-badge&logo=Windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
@@ -33,4 +35,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jukpa0610@gmail.com)](mailto:jukpa0610@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnddl9456@naver.com)](mailto:dnddl9456@naver.com)
 
+</div>
 
