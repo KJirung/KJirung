@@ -7,7 +7,7 @@
 😀 Introduction
 <br/><br/>
 
-I am currently majoring in cyber security at Hansung University, and the field I am interested in is IoT security.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=10000&pause=3000&width=770&lines=I+am+currently+majoring+in+cyber+security+at+Hansung+University+;I+am+interested+in+IoT+security.)](https://git.io/typing-svg)
 
 <br/><br/>
 
