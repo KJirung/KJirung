@@ -60,7 +60,7 @@ I am currently majoring in cyber security at Hansung University, and the field I
 
 <br/><br/>
 
-## Certificate
+## 📑 Certificate
 
 - 컴퓨터 활용능력 1급
 - 네트워크 관리사 2급
