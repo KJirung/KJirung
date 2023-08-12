@@ -1,20 +1,41 @@
 <div align=center>
 
-# Kim Jin Woong 
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Hello,%20I'm%20Kim%20Jin%20Woong&fontSize=50)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKJirung&count_bg=%23DDE8D5&title_bg=%23181719&icon=linux.svg&icon_color=%237D97CE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br/>
+
+😀 Introduction
+<br/><br/>
+
+I am currently majoring in cyber security at Hansung University, and the field I am interested in is IoT security.
+
+<br/>
+
+---
+
+<br/><br/>
 
 ![JinWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJirung&show_icons=true&theme=merko)
+
+<br/><br/>
+<**C Language Problem Solving**>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnddl9456)](https://solved.ac/dnddl9456/)
 
+<br/><br/><br/>
 
-# Skills
+## 💪 Skills 
+
+<br/><br/>
 **Library & Languages**
+
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white)
 ![scikit learn](https://img.shields.io/badge/scikit-learn-F7931E.svg?&style=for-the-badge&logo=scikit%20learn&logoColor=white)
+
+
 
 **Tools**
 
@@ -29,9 +50,9 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=for-the-badge&logo=CentOS&logoColor=white)
 
-<br/>
+<br/><br/>
 
-# :mailbox_with_mail: Contacts
+## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jukpa0610@gmail.com)](mailto:jukpa0610@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnddl9456@naver.com)](mailto:dnddl9456@naver.com)
 
