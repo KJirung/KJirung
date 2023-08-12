@@ -52,6 +52,16 @@ I am currently majoring in cyber security at Hansung University, and the field I
 
 <br/><br/>
 
+## Certificate
+
+- 컴퓨터 활용능력 1급
+- 네트워크 관리사 2급
+- ICDL 4 modules
+- GTQ 2급
+- 리눅스 마스터 1급 필기
+
+<br/><br/><br/>
+
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jukpa0610@gmail.com)](mailto:jukpa0610@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dnddl9456@naver.com)](mailto:dnddl9456@naver.com)
