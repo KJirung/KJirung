@@ -8,14 +8,11 @@ I am interested in medical artificial intelligence, and I continue to study it.
 
 <br/><br/><br/><br/>
 
-**😀 Introduction**
+## 😀 Introduction
 
 
 
-<br/>
 
-
----
 
 <br/><br/>
 
@@ -60,11 +57,15 @@ I am interested in medical artificial intelligence, and I continue to study it.
 
 ## 📑 Certificate
 
-- 컴퓨터 활용능력 1급
-- 네트워크 관리사 2급
+- Computer Specialist in Spreadsheet & Database Level-1
+- Network Advisor (grade 2)
 - ICDL 4 modules
-- GTQ 2급
-- 리눅스 마스터 1급 필기
+   - Computer Essentials
+   - Word Processing
+   - Spreadsheets
+   - Presentation
+- GTQ (grade 2)
+- Linux Master (grade 1)
 
 <br/><br/><br/>
 
