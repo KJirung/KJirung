@@ -2,7 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=100&section=header&text=Hello,%20I'm%20Kim%20Jin%20Woong&fontSize=50)
 
-<br/><br/><br/><br/><br/><br/>
+I am interested in medical artificial intelligence, and I continue to study it.
+
+<br/><br/><br/><br/><br/>
 
 **😀 Introduction**
 
