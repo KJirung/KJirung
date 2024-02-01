@@ -20,7 +20,7 @@
 ![JinWoong's GitHub stats](https://github-readme-stats.vercel.app/api?username=KJirung&show_icons=true&theme=merko)
 
 <br/><br/>
-<**C Language Problem Solving**>
+<**Algorithm Problem Solving**>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dnddl9456)](https://solved.ac/dnddl9456/)
 
