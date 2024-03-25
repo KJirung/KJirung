@@ -4,7 +4,6 @@
 
 <br/>
 
-I am interested in medical artificial intelligence, and I continue to study it.
 
 <br/><br/><br/><br/>
 
