@@ -64,7 +64,6 @@
    - Spreadsheets
    - Presentation
 - GTQ (grade 2)
-- Linux Master (grade 1)
 
 <br/><br/><br/>
 
