@@ -56,14 +56,10 @@
 
 ## 📑 Certificate
 
-- Computer Specialist in Spreadsheet & Database Level-1
-- Network Advisor (grade 2)
+- 컴퓨터 활용능력 1급
+- 네트워크 관리사 2급
 - ICDL 4 modules
-   - Computer Essentials
-   - Word Processing
-   - Spreadsheets
-   - Presentation
-- GTQ (grade 2)
+- GTQ 2급
 
 <br/><br/><br/>
 
