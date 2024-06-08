@@ -58,7 +58,7 @@
 
 - 컴퓨터 활용능력 1급
 - 네트워크 관리사 2급
-- ICDL 4 modules
+- ICDL start certificate
 - GTQ 2급
 
 <br/><br/><br/>
